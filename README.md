@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @CheesecakeYT!
-- 👀 I’m reeeeealy interested in computer viruses and antiviruses!
-- 🌱 I’m currently learning how to code the features of my own batch AV.
+If you read this, you like all antiviruses of the world!
+Yeah, mah antivirus does count aswell.
 
 <!---
 CheesecakeYT/CheesecakeYT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
