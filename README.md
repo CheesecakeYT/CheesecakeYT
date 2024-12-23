@@ -1,5 +1,4 @@
-If you read this, you like all antiviruses of the world!
-Yeah, mah antivirus does count aswell.
+
 
 <!---
 CheesecakeYT/CheesecakeYT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
